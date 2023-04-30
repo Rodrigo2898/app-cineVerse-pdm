@@ -1,0 +1,8 @@
+{
+    "app_name": "CineVerse",
+    "login_title": "Enter",
+    "register_title": "Create your account",
+    "login_button_text": "Don't have an account? Register now",
+    "register_button_text": "Register now",
+    "back_to_login_text": "Back to login"
+}
